@@ -6,7 +6,7 @@ let buyernam = prompt("Mi a neved?");
 console.log(`Hello!\n ${buyernam}`);
 let productQuantity = prompt(`Hány terméket szeretnél vásárolni?`);
 console.log(`Ennyi a termek szam\n ${productQuantity}`);
-let productname = prompt(`Milyen terméket szeretnél vásátolni?`);
+let productname = prompt(`Milyen terméket szeretnél vásárolni?`);
 console.log(`Ez a kivalasztott termek\n ${productname}`);
 
 let vegOsszeg = 0;
