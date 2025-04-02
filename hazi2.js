@@ -56,7 +56,7 @@ console.log(vizsgaEredmeny(99));
 
 let kenyer = {
     name: "Kenyer",
-    price: 1200,
+    price: 12000,
     inStock: true
 };
 
